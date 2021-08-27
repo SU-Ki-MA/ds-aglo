@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1598307358 source:e:\coading\projects\cpp series\test\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1598924659 source:e:\coading\projects\cpp series\test\test2.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+

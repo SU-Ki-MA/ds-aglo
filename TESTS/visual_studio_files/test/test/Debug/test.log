@@ -1,0 +1,39 @@
+﻿  Source.cpp
+E:\COADING\PROJECTS\cpp Series\test\test\Source.cpp(27,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\COADING\PROJECTS\cpp Series\test\test\Source.cpp(42,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\COADING\PROJECTS\cpp Series\test\test\Source.cpp(49,13): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+E:\COADING\PROJECTS\cpp Series\test\test\Source.cpp(54,13): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+E:\COADING\PROJECTS\cpp Series\test\test\Source.cpp(59,13): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+E:\COADING\PROJECTS\cpp Series\test\test\Source.cpp(64,13): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+E:\COADING\PROJECTS\cpp Series\test\test\Source.cpp(69,13): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+E:\COADING\PROJECTS\cpp Series\test\test\Source.cpp(74,13): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+E:\COADING\PROJECTS\cpp Series\test\test\Source.cpp(79,13): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+E:\COADING\PROJECTS\cpp Series\test\test\Source.cpp(114,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\COADING\PROJECTS\cpp Series\test\test\Source.cpp(123,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\COADING\PROJECTS\cpp Series\test\test\Source.cpp(128,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\COADING\PROJECTS\cpp Series\test\test\Source.cpp(132,17): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\COADING\PROJECTS\cpp Series\test\test\Source.cpp(159,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\COADING\PROJECTS\cpp Series\test\test\Source.cpp(165,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\COADING\PROJECTS\cpp Series\test\test\Source.cpp(175,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\COADING\PROJECTS\cpp Series\test\test\Source.cpp(179,17): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\COADING\PROJECTS\cpp Series\test\test\Source.cpp(201,13): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+E:\COADING\PROJECTS\cpp Series\test\test\Source.cpp(227,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\COADING\PROJECTS\cpp Series\test\test\Source.cpp(237,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\COADING\PROJECTS\cpp Series\test\test\Source.cpp(241,17): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\COADING\PROJECTS\cpp Series\test\test\Source.cpp(266,13): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+E:\COADING\PROJECTS\cpp Series\test\test\Source.cpp(358,27): error C2059: syntax error: 'new'
+E:\COADING\PROJECTS\cpp Series\test\test\Source.cpp(385,29): error C2059: syntax error: ')'
+E:\COADING\PROJECTS\cpp Series\test\test\Source.cpp(385,19): warning C4473: 'scanf' : not enough arguments passed for format string
+E:\COADING\PROJECTS\cpp Series\test\test\Source.cpp(385,19): message : placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+E:\COADING\PROJECTS\cpp Series\test\test\Source.cpp(385,19): message : the missing variadic argument 1 is required by format string '%d'
+E:\COADING\PROJECTS\cpp Series\test\test\Source.cpp(390,34): error C2059: syntax error: ';'
+E:\COADING\PROJECTS\cpp Series\test\test\Source.cpp(357,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\COADING\PROJECTS\cpp Series\test\test\Source.cpp(365,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\COADING\PROJECTS\cpp Series\test\test\Source.cpp(369,17): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\COADING\PROJECTS\cpp Series\test\test\Source.cpp(377,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\COADING\PROJECTS\cpp Series\test\test\Source.cpp(383,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\COADING\PROJECTS\cpp Series\test\test\Source.cpp(385,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\COADING\PROJECTS\cpp Series\test\test\Source.cpp(380,9): error C2360: initialization of 'v' is skipped by 'case' label
+E:\COADING\PROJECTS\cpp Series\test\test\Source.cpp(375): message : see declaration of 'v'
+E:\COADING\PROJECTS\cpp Series\test\test\Source.cpp(398,9): error C2361: initialization of 'v' is skipped by 'default' label
+E:\COADING\PROJECTS\cpp Series\test\test\Source.cpp(375): message : see declaration of 'v'
