@@ -1,0 +1,25 @@
+t=int(input())
+while(t!=0):
+  n,m = list(map(int,input().split()))
+  mod=1000000007
+  result=1
+  a=2
+  z=n
+  while(z>0):
+    if(z%2==1):
+      result*=a%(mod)
+    a*=a%(mod)
+    z=z//2
+  result=result%mod
+  result-=(1%mod)
+  z=m
+  a=result
+  r=1
+  while(z>0):
+    if(z%2==1):
+      r*=a%(mod)
+    a*=a%(mod)
+    z=z//2
+  r=r%mod
+  print(r)
+  t-=1
